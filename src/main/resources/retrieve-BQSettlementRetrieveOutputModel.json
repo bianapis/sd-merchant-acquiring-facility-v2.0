@@ -1,0 +1,46 @@
+{
+  "settlementRetrieveActionTaskReference" : "SRATR742372",
+  "settlementRetrieveActionResponse" : "settlementRetrieveActionResponse",
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "726761",
+    "taxReference" : "770925",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "757852",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "746259",
+    "bankBranchLocationReference" : "780101"
+  },
+  "settlementInstanceReport" : {
+    "settlementInstanceReportType" : "settlementInstanceReportType",
+    "settlementInstanceReport" : {},
+    "settlementInstanceReportParameters" : "settlementInstanceReportParameters",
+    "settlementInstanceReportRecord" : {}
+  },
+  "settlementInstanceAnalysis" : {
+    "settlementInstanceAnalysisReportType" : "settlementInstanceAnalysisReportType",
+    "settlementInstanceAnalysisRecord" : {},
+    "settlementInstanceAnalysisParameters" : "settlementInstanceAnalysisParameters",
+    "settlementInstanceAnalysisReport" : {}
+  },
+  "settlementRetrieveActionTaskRecord" : {},
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  },
+  "settlementInstanceRecord" : {
+    "participantPaymentTransaction" : "participantPaymentTransaction",
+    "participantAcquirerBankSettlementAccountStatement" : "participantAcquirerBankSettlementAccountStatement",
+    "participantIssuerBankReference" : "784348",
+    "cardFinancialSettlementServicePaymentAdviceRecord" : {},
+    "participantMerchantAcquirerBankReference" : "731148"
+  }
+}

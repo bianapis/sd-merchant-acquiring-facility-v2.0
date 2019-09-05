@@ -1,0 +1,34 @@
+{
+  "clearingInstanceRecord" : {
+    "cardTransactionRecordReference" : {
+      "cardTransactionProductInstanceReference" : "799686",
+      "cardTransactionMerchantReference" : "704645",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "784814",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "736432",
+      "cardTransactionLocationReference" : "749982",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "700081",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "756782",
+      "cardTransactionProductServiceReference" : "764975",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "777047"
+    }
+  },
+  "clearingUpdateActionTaskReference" : "CUATR776316",
+  "clearingUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  }
+}

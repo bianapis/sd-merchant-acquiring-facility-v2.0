@@ -1,0 +1,57 @@
+{
+  "serviceFeesInstanceReport" : {
+    "serviceFeesInstanceReport" : {},
+    "serviceFeesInstanceReportType" : "serviceFeesInstanceReportType",
+    "serviceFeesInstanceReportParameters" : "serviceFeesInstanceReportParameters",
+    "serviceFeesInstanceReportRecord" : {}
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "742528",
+    "taxReference" : "778080",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "759207",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "799694",
+    "bankBranchLocationReference" : "730970"
+  },
+  "serviceFeesInstanceAnalysis" : {
+    "serviceFeesInstanceAnalysisReport" : {},
+    "serviceFeesInstanceAnalysisParameters" : "serviceFeesInstanceAnalysisParameters",
+    "serviceFeesInstanceAnalysisReportType" : "serviceFeesInstanceAnalysisReportType",
+    "serviceFeesInstanceAnalysisRecord" : {}
+  },
+  "serviceFeesRetrieveActionTaskReference" : "SFRATR729253",
+  "serviceFeesRetrieveActionResponse" : "serviceFeesRetrieveActionResponse",
+  "serviceFeesRetrieveActionTaskRecord" : {},
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  },
+  "serviceFeesInstanceRecord" : {
+    "merchantFeeApplicationRecord" : {
+      "merchantFeeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionDescription" : "transactionDescription",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "merchantFeeProjectionsandCommitments" : {
+        "projectedTransactionDescription" : "projectedTransactionDescription",
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    },
+    "merchantFeeConfigurationProfile" : {
+      "merchantFeeDefinition" : "merchantFeeDefinition",
+      "merchantFeeType" : "merchantFeeType"
+    }
+  }
+}

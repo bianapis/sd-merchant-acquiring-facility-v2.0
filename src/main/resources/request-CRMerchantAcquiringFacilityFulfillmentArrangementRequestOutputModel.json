@@ -1,0 +1,14 @@
+{
+  "requestRecordReference" : "RRR770194",
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms"
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementRequestActionTaskRecord" : {},
+  "merchantAcquiringFacilityFulfillmentArrangementRequestActionTaskReference" : "MAFFARATR796886",
+  "requestResponseRecord" : {}
+}

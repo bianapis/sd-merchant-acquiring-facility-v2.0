@@ -1,0 +1,14 @@
+{
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "764432",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings"
+    },
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms"
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementInitiateActionReference" : "MAFFAIAR772533",
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceReference" : "MAFFAIR717074",
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceStatus" : "merchantAcquiringFacilityFulfillmentArrangementInstanceStatus",
+  "merchantAcquiringFacilityFulfillmentArrangementInitiateActionRecord" : {}
+}

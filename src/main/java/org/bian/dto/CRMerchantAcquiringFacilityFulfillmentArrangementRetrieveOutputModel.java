@@ -1,0 +1,115 @@
+package org.bian.dto;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+import com.fasterxml.jackson.annotation.JsonCreator;
+import io.swagger.annotations.ApiModel;
+import io.swagger.annotations.ApiModelProperty;
+import org.bian.dto.CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis;
+import org.bian.dto.CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceRecord;
+import org.bian.dto.CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord;
+
+import javax.validation.Valid;
+  
+/**
+ * CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModel
+ */
+public class CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModel   {
+  private CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceRecord merchantAcquiringFacilityFulfillmentArrangementInstanceRecord = null;
+
+  private String merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference = null;
+
+  private Object merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord = null;
+
+  private String merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse = null;
+
+  private CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord = null;
+
+  private CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis = null;
+
+
+  /**
+   * Get merchantAcquiringFacilityFulfillmentArrangementInstanceRecord
+   * @return merchantAcquiringFacilityFulfillmentArrangementInstanceRecord
+  **/
+
+  public CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceRecord getMerchantAcquiringFacilityFulfillmentArrangementInstanceRecord() {
+    return merchantAcquiringFacilityFulfillmentArrangementInstanceRecord;
+  }
+
+  public void setMerchantAcquiringFacilityFulfillmentArrangementInstanceRecord(CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceRecord merchantAcquiringFacilityFulfillmentArrangementInstanceRecord) {
+    this.merchantAcquiringFacilityFulfillmentArrangementInstanceRecord = merchantAcquiringFacilityFulfillmentArrangementInstanceRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::ISO20022andUNCEFACT::Identifier  general-info: Reference to a Merchant Acquiring Facility Fulfillment Arrangement instance retrieve service call 
+   * @return merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference
+  **/
+
+  public String getMerchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference() {
+    return merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference;
+  }
+
+  public void setMerchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference(String merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference) {
+    this.merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference = merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Binary  general-info: The retrieve service call consolidated processing record 
+   * @return merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord
+  **/
+
+  public Object getMerchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord() {
+    return merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord;
+  }
+
+  public void setMerchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord(Object merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord) {
+    this.merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord = merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord;
+  }
+
+
+  /**
+   * `status: Not Mapped`  core-data-type-reference: BIAN::DataTypesLibrary::CoreDataTypes::UNCEFACT::Text  general-info: Details of the retrieve action service response (lists returned reports) 
+   * @return merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse
+  **/
+
+  public String getMerchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse() {
+    return merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse;
+  }
+
+  public void setMerchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse(String merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse) {
+    this.merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse = merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse;
+  }
+
+
+  /**
+   * Get merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord
+   * @return merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord
+  **/
+
+  public CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord getMerchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord() {
+    return merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord;
+  }
+
+  public void setMerchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord(CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord) {
+    this.merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord = merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord;
+  }
+
+
+  /**
+   * Get merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis
+   * @return merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis
+  **/
+
+  public CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis getMerchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis() {
+    return merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis;
+  }
+
+  public void setMerchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis(CRMerchantAcquiringFacilityFulfillmentArrangementRetrieveOutputModelMerchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis) {
+    this.merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis = merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis;
+  }
+
+
+}
+

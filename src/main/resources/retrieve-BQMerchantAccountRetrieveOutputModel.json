@@ -1,0 +1,39 @@
+{
+  "merchantAccountInstanceReport" : {
+    "merchantAccountInstanceReport" : {},
+    "merchantAccountInstanceReportRecord" : {},
+    "merchantAccountInstanceReportParameters" : "merchantAccountInstanceReportParameters",
+    "merchantAccountInstanceReportType" : "merchantAccountInstanceReportType"
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "701040",
+    "taxReference" : "704781",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "774918",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "790960",
+    "bankBranchLocationReference" : "782493"
+  },
+  "merchantAccountInstanceAnalysis" : {
+    "merchantAccountInstanceAnalysisReportType" : "merchantAccountInstanceAnalysisReportType",
+    "merchantAccountInstanceAnalysisRecord" : {},
+    "merchantAccountInstanceAnalysisParameters" : "merchantAccountInstanceAnalysisParameters",
+    "merchantAccountInstanceAnalysisReport" : {}
+  },
+  "merchantAccountRetrieveActionTaskRecord" : {},
+  "merchantAccountRetrieveActionTaskReference" : "MARATR737040",
+  "merchantAccountRetrieveActionResponse" : "merchantAccountRetrieveActionResponse",
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  }
+}

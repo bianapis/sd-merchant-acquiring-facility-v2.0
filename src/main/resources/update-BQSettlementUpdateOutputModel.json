@@ -1,0 +1,20 @@
+{
+  "updateResponseRecord" : {},
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  },
+  "settlementUpdateActionTaskReference" : "SUATR705531",
+  "settlementUpdateActionTaskRecord" : {},
+  "settlementInstanceRecord" : {
+    "participantPaymentTransaction" : "participantPaymentTransaction",
+    "participantAcquirerBankSettlementAccountStatement" : "participantAcquirerBankSettlementAccountStatement",
+    "participantIssuerBankReference" : "794638",
+    "cardFinancialSettlementServicePaymentAdviceRecord" : {},
+    "participantMerchantAcquirerBankReference" : "728079"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "settlementExecuteActionTaskRecord" : {},
+  "settlementExecuteActionTaskReference" : "SEATR785355",
+  "executeResponseRecord" : {},
+  "settlementExecuteRecordReference" : "SERR710350",
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult"
+    }
+  },
+  "settlementInstanceRecord" : {
+    "participantPaymentTransaction" : "participantPaymentTransaction",
+    "participantAcquirerBankSettlementAccountStatement" : "participantAcquirerBankSettlementAccountStatement",
+    "participantIssuerBankReference" : "742967",
+    "cardFinancialSettlementServicePaymentAdviceRecord" : {},
+    "participantMerchantAcquirerBankReference" : "702241"
+  }
+}

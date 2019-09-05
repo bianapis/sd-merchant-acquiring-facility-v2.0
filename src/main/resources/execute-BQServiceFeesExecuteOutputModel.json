@@ -1,0 +1,27 @@
+{
+  "serviceFeesExecuteActionTaskRecord" : {},
+  "serviceFeesExecuteRecordReference" : "SFERR713706",
+  "executeResponseRecord" : {},
+  "serviceFeesExecuteActionTaskReference" : "SFEATR759805",
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult"
+    }
+  },
+  "serviceFeesInstanceRecord" : {
+    "merchantFeeApplicationRecord" : {
+      "merchantFeeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "merchantFeeProjectionsandCommitments" : {
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    },
+    "merchantFeeConfigurationProfile" : {
+      "merchantFeeDefinition" : "merchantFeeDefinition"
+    }
+  }
+}

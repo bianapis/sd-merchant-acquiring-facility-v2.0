@@ -1,0 +1,60 @@
+{
+  "clearingRetrieveActionTaskRecord" : {},
+  "clearingInstanceReport" : {
+    "clearingInstanceReport" : {},
+    "clearingInstanceReportParameters" : "clearingInstanceReportParameters",
+    "clearingInstanceReportType" : "clearingInstanceReportType",
+    "clearingInstanceReportRecord" : {}
+  },
+  "clearingInstanceRecord" : {
+    "cardTransactionRecordReference" : {
+      "cardTransactionProductInstanceReference" : "777585",
+      "cardTransactionMerchantReference" : "723343",
+      "cardTransactionInterchargeFee" : "USD 250",
+      "cardTransactionIssuingBankReference" : "754834",
+      "cardTransactionType" : "cardTransactionType",
+      "cardTransactionMerchantAcquiringBankReference" : "758604",
+      "cardTransactionLocationReference" : "724499",
+      "cardTransactionCurrency" : "USD",
+      "cardTransactionIssuedDeviceReference" : "771406",
+      "cardTransactionAmountType" : "cardTransactionAmountType",
+      "cardTransactionFXConversionCharge" : "USD 250",
+      "cardTransactionNetworkReference" : "742932",
+      "cardTransactionProductServiceReference" : "742560",
+      "cardTransactionDateTime" : "09-22-2018",
+      "cardTransactionAmount" : "USD 250",
+      "cardTransactionAuthorizationRecord" : {},
+      "cardHolderReference" : "783512"
+    }
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "781910",
+    "taxReference" : "795976",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "756014",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "763550",
+    "bankBranchLocationReference" : "761341"
+  },
+  "clearingRetrieveActionTaskReference" : "CRATR774356",
+  "clearingInstanceAnalysis" : {
+    "clearingInstanceAnalysisRecord" : {},
+    "clearingInstanceAnalysisReportType" : "clearingInstanceAnalysisReportType",
+    "clearingInstanceAnalysisParameters" : "clearingInstanceAnalysisParameters",
+    "clearingInstanceAnalysisReport" : {}
+  },
+  "clearingRetrieveActionResponse" : "clearingRetrieveActionResponse",
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  }
+}

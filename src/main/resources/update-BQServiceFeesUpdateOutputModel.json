@@ -1,0 +1,31 @@
+{
+  "serviceFeesUpdateActionTaskRecord" : {},
+  "updateResponseRecord" : {},
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  },
+  "serviceFeesInstanceRecord" : {
+    "merchantFeeApplicationRecord" : {
+      "merchantFeeTransaction" : {
+        "transactionFeeCharge" : "USD 250",
+        "transactionDescription" : "transactionDescription",
+        "transactionFeeType" : "transactionFeeType"
+      },
+      "merchantFeeProjectionsandCommitments" : {
+        "projectedTransactionDescription" : "projectedTransactionDescription",
+        "projectedTransactionFeeType" : "projectedTransactionFeeType",
+        "projectedTransactionFeeCharge" : "USD 250"
+      }
+    },
+    "merchantFeeConfigurationProfile" : {
+      "merchantFeeDefinition" : "merchantFeeDefinition",
+      "merchantFeeType" : "merchantFeeType"
+    }
+  },
+  "serviceFeesUpdateActionTaskReference" : "SFUATR768777"
+}

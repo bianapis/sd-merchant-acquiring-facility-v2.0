@@ -1,0 +1,42 @@
+{
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "736201",
+    "taxReference" : "772737",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "793024",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "735261",
+    "bankBranchLocationReference" : "788480"
+  },
+  "chargebackRetrieveActionResponse" : "chargebackRetrieveActionResponse",
+  "chargebackInstanceReport" : {
+    "chargebackInstanceReportRecord" : {},
+    "chargebackInstanceReport" : {},
+    "chargebackInstanceReportParameters" : "chargebackInstanceReportParameters",
+    "chargebackInstanceReportType" : "chargebackInstanceReportType"
+  },
+  "chargebackRetrieveActionTaskReference" : "CRATR796050",
+  "chargebackRetrieveActionTaskRecord" : {},
+  "chargebackInstanceRecord" : {
+    "cardTransactionRecordReference" : "750083"
+  },
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  },
+  "chargebackInstanceAnalysis" : {
+    "chargebackInstanceAnalysisRecord" : {},
+    "chargebackInstanceAnalysisParameters" : "chargebackInstanceAnalysisParameters",
+    "chargebackInstanceAnalysisReport" : {},
+    "chargebackInstanceAnalysisReportType" : "chargebackInstanceAnalysisReportType"
+  }
+}

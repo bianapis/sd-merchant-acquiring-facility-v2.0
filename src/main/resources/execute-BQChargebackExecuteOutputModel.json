@@ -1,0 +1,15 @@
+{
+  "chargebackExecuteRecordReference" : "CERR708118",
+  "executeResponseRecord" : {},
+  "chargebackExecuteActionTaskReference" : "CEATR736856",
+  "chargebackExecuteActionTaskRecord" : {},
+  "chargebackInstanceRecord" : {
+    "cardTransactionRecordReference" : "733989"
+  },
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult"
+    }
+  }
+}

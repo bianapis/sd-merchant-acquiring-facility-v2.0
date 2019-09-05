@@ -1,0 +1,29 @@
+{
+  "merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse" : "merchantAcquiringFacilityFulfillmentArrangementRetrieveActionResponse",
+  "merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskReference" : "MAFFARATR772269",
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceReportRecord" : {
+    "merchantAcquiringFacilityFulfillmentArrangementInstanceReportType" : "merchantAcquiringFacilityFulfillmentArrangementInstanceReportType",
+    "merchantAcquiringFacilityFulfillmentArrangementInstanceReportData" : "merchantAcquiringFacilityFulfillmentArrangementInstanceReportData",
+    "merchantAcquiringFacilityFulfillmentArrangementInstanceReport" : {}
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysis" : {
+    "merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysisReport" : {},
+    "merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysisReportType" : "merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysisReportType",
+    "merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysisData" : "merchantAcquiringFacilityFulfillmentArrangementInstanceAnalysisData"
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "779830",
+    "taxReference" : "747880",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "794254",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "754126",
+    "bankBranchLocationReference" : "760723"
+  },
+  "merchantAcquiringFacilityFulfillmentArrangementRetrieveActionTaskRecord" : {}
+}

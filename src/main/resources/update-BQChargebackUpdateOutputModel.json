@@ -1,0 +1,16 @@
+{
+  "updateResponseRecord" : {},
+  "chargebackUpdateActionTaskReference" : "CUATR725502",
+  "chargebackInstanceRecord" : {
+    "cardTransactionRecordReference" : "703872"
+  },
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingPurpose" : "merchantAcquiringAccountPostingPurpose",
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult",
+      "merchantAcquiringAccountPostingAmount" : "USD 250"
+    }
+  },
+  "chargebackUpdateActionTaskRecord" : {}
+}

@@ -1,0 +1,19 @@
+{
+  "merchantAcquiringFacilityFulfillmentArrangementInstanceRecord" : {
+    "productInstanceReference" : "791734",
+    "taxReference" : "709460",
+    "merchantAcquiringFacilityPositionLimits" : {
+      "merchantPositionLimitValue" : "merchantPositionLimitValue",
+      "merchantPositionLimitSettings" : "merchantPositionLimitSettings",
+      "merchantPositionLimitType" : "merchantPositionLimitType"
+    },
+    "customerReference" : "748175",
+    "accountCurrency" : "USD",
+    "merchantAcquiringFacilityOperationalTerms" : "merchantAcquiringFacilityOperationalTerms",
+    "partyReference" : "726437",
+    "bankBranchLocationReference" : "774285"
+  },
+  "updateResponseRecord" : {},
+  "merchantAcquiringFacilityFulfillmentArrangementUpdateActionTaskReference" : "MAFFAUATR745714",
+  "merchantAcquiringFacilityFulfillmentArrangementUpdateActionTaskRecord" : {}
+}

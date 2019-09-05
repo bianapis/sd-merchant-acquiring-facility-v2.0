@@ -1,0 +1,17 @@
+{
+  "clearingInstanceRecord" : {
+    "cardTransactionRecordReference" : {
+      "cardTransactionDateTime" : "09-22-2018"
+    }
+  },
+  "clearingExecuteActionTaskRecord" : {},
+  "executeResponseRecord" : {},
+  "clearingExecuteRecordReference" : "CERR750983",
+  "merchantAccountInstanceRecord" : {
+    "merchantAccountPostingTransaction" : {
+      "merchantAcquiringAccountPostingValueDate" : "09-22-2018",
+      "merchantAcquiringAccountPostingResult" : "merchantAcquiringAccountPostingResult"
+    }
+  },
+  "clearingExecuteActionTaskReference" : "CEATR735986"
+}
